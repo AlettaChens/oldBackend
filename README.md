@@ -1,1 +1,1 @@
-# 社区健康服务Restful API  (SpringBoot+mybatis+swaager2实践)
+# 社区健康服务Restful API  (SpringBoot+mybatis+swagger2实践)
